@@ -2,8 +2,7 @@
 title: "Towards Explainable Code Readability Classification with Graph Neural Networks"
 category: manuscripts
 permalink: /publication/Towards-Explainable-Code-Readability-Classification-with-Graph-Neural-Networks
-excerpt: 'This paper is about code readability analysis, Graph Neural Network, GNN Explaianability'
-venue: 'Journal of Software: Evolution and Process (Expected to publish, currently major review)'
+excerpt: 'This paper is about code readability analysis, Graph Neural Network, GNN Explaianability. It is currently in major review and expected to be published in Journal of Software: Evolution and Process (CCF-B).'
 ---
 
 **Context**: Code readability is of central concern for developers, since a more readable code indicates higher
