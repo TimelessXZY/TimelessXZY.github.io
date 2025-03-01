@@ -12,7 +12,7 @@ title                    : "Zhiyou Xiao"
 title_separator          : "-"
 name                     : &name "Zhiyou Xiao"
 description              : &description "Master Student in School of Software & Microelectronics, Peking University"
-url                      : https://timelessxzy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://timelessxzy.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TimelessXZY/TimelessXZY.github.io"
 
