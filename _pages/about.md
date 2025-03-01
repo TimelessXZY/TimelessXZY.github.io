@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a first year master student from [School of Software & Microelectronics](https://www.ss.pku.edu.cn), [Peking University](https://www.pku.edu.cn/). My research interest includes Data-centric AI, Large Language Model, Multi-modal Lagre Language Model, Retrieval-augmented Generation, Explainable AI.
 
-I'm currently working as a research assistant in [Center of Machine Learning Research, PKU](https://cmlr.pku.edu.cn/People/Faculty/5ce37bd8e3244030ae3f34e01d23e761.htm) supervised by Assistant Prof. [Wentao Zhang](https://zwt233.github.io). As a master student, I am now in the [National Engineering Research Center for Software Engineering (Peking University)](https://se.pku.edu.cn).
+I'm currently collaborate as a research assistant in [Center of Machine Learning Research, PKU](https://cmlr.pku.edu.cn/People/Faculty/5ce37bd8e3244030ae3f34e01d23e761.htm) supervised by Assistant Prof. [Wentao Zhang](https://zwt233.github.io). As a master student, I am now in the [National Engineering Research Center for Software Engineering (Peking University)](https://se.pku.edu.cn).
 
 # 📖 Educations
 
